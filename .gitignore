@@ -1,0 +1,16 @@
+.sf/
+.sfdx/
+.mcp.json
+
+# Added by Illuminated Cloud
+.localdev/
+/IlluminatedCloud/
+/out/
+target/
+node_modules/
+/.illuminatedCloud/
+**/tsconfig*.json
+**/*.tsbuildinfo
+**/graphql.config.yml
+/.claude/
+/.idea/
